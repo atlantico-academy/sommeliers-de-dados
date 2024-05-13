@@ -1,0 +1,12 @@
+variavel,descricao,tipo,subtipo
+winery,Vinícola: local onde o vinho foi produzido,qualitativa,nominal
+nome do wine,vinho,qualitativa,nominal
+year,ano,quantitativa,discreta
+rating,avaliação,quantitativa,discreta
+num_reviews,número de avaliações,quantitativa,discreta
+country,país de origem,qualitativa,nominal
+region,região do vinho,qualitativa,nominal
+price,preço em euros,quantitativa,continua
+type,tipo do vinho,qualitativa,nominal
+body,"corpo do vinho: como o vinho ""cai"" na boca",quantitativa,discreta
+acidity,acidez,quantitativa,discreta
